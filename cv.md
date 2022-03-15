@@ -6,7 +6,7 @@ Future Frontend Developer
 
 #### Contacts
 
-- **location**: Minsk, Belarus , Nur-Sultan, Kazakhstan
+- **location**: Minsk, Belarus (Nur-Sultan, Kazakhstan)
 - **Phone**: +375 (29) 338-91-09
 - **Discord**: Daniyar Ayazbayev (@Daniyar22)
 - **E-mail**: Ayazbayev.444@gmail.com
